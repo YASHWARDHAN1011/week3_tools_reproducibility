@@ -1,0 +1,5 @@
+type,country,director,release_year
+Movie,India,Dir1,2020
+TV Show,USA,Dir2,2019
+Movie,,Dir4,2018
+TV Show,Canada,Dir5,2022
